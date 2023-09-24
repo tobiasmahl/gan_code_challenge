@@ -1,6 +1,8 @@
-# GAN Integrity backend code challenge
+# GAN code challenge
 
-Run `npm install`, `npm run build` and `npm run start` to start the koa api.
+Run `npm install` and `npm run start` to start the koa api. (http://localhost:8080)
+
+Then you can follow the instructions and run the GAN Integrity backend code challenge
 
 The api loads the required data from [here](addresses.json).
 
